@@ -1,2 +1,3 @@
 # cafeDetailView
 cafeDetailView
+segment contorl
